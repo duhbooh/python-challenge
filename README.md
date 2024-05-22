@@ -4,4 +4,4 @@
 
   PyPoll
 
-  Using the daa provided in "election_data.csv" I successfully determined the outcomes of an election. The election consisted of 3 candidates: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. The winner of the vote was Diana Degette at 73.812% of all votes.
+  Using the data provided in "election_data.csv" I successfully determined the outcomes of an election. The election consisted of 3 candidates: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. The winner of the vote was Diana Degette at 73.812% of all votes.
